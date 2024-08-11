@@ -1,6 +1,11 @@
 # End-to-End-AI-YouTube-Video-Summarizer
 An end-to-end AI YouTube Video Summarizer
 
+## Introduction
+* Utilized the YouTube Transcript API in the back-end to retrieve captions from YouTube videos.
+* Integrated Google Gemini Pro to generate detailed summaries based on the fetched captions.
+* Used Streamlit for the front-end experience
+
 ## Libraries used
 * youtube_transcript_api
 * streamlit
